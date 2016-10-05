@@ -1,0 +1,35 @@
+commit b59ac1dccebe34855e3a28562ef292a56d2c3ecb
+Author: Luis <santillan.itc@gmail.com>
+Date:   Tue Oct 4 11:39:43 2016 -0600
+
+    Comandos agregados a la tabla
+
+commit a85539a64d8d7f1e8a02f61f69f84c4a3805e749
+Author: Luis <santillan.itc@gmail.com>
+Date:   Tue Oct 4 11:35:25 2016 -0600
+
+    footer
+
+commit 2ae923ae956822b593e45d80d7fe690ba0d4ab08
+Author: Luis <santillan.itc@gmail.com>
+Date:   Tue Oct 4 11:32:42 2016 -0600
+
+    Imagen de git
+
+commit 36acd581e11093367a70a8aaa9984900bd03dcd6
+Author: Luis <santillan.itc@gmail.com>
+Date:   Tue Oct 4 11:28:19 2016 -0600
+
+    Tabla de comandos
+
+commit 2fc9f14fd0393af8d6c7f0999d55f30a74f132b3
+Author: Luis <santillan.itc@gmail.com>
+Date:   Mon Oct 3 11:51:52 2016 -0600
+
+    Encabezado e integracion bootstrap
+
+commit 0146df96e28c0553e1d0e3cceb73f8579e380d77
+Author: CCPW-02 <CCPW-02>
+Date:   Mon Oct 3 11:39:24 2016 -0600
+
+    Estructura inicial
